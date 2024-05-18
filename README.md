@@ -12,3 +12,5 @@ python3 -m pip install --upgrade pip
 python3 -m pip install --upgrade Pillow
 ```
 in a command prompt window.
+
+(I know there's definitely a better way to choose what image you want to convert but honestly I don't want to do more Python)
